@@ -16,4 +16,5 @@ kiwi
 mexirica
 morango
 amora
-Marmelo
+marmelo
+acai
